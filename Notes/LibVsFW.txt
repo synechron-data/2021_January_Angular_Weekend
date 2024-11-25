@@ -1,0 +1,28 @@
+JS Framework
+	Set of API's targeted to do application
+
+	Ajax - HttpClient
+	Angular - UI Component
+	AngularRouter
+	ngRx
+
+	Syntax and Semantic Rule
+	Rules to Structure your application
+	Naming Conventions
+
+	Built In Services
+		Data Binding
+		Dependency Injector
+		Change Detector
+
+JS Library
+	Set of API's targeted to do one particular task
+
+	jQuery - DOM Manipulation & AJAX
+	chartJS - Data Visualization
+	momentJS - Date
+	
+	Ajax - Axios
+	ReactJS - UI Library
+	ReactRouter
+	Redux
